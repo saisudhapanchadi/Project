@@ -16,4 +16,5 @@ const Sunset = (): JSX.Element => (
   </svg>
 )
 
+
 export default Sunset
