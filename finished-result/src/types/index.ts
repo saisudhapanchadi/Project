@@ -41,3 +41,4 @@ export type forecastType = {
   sunrise: number
   sunset: number
 }
+
