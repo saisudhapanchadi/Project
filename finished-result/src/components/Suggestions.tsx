@@ -21,3 +21,4 @@ const Suggestions = ({ options, onSelect }: componentProps): JSX.Element => (
 )
 
 export default Suggestions
+
