@@ -10,4 +10,5 @@ const Wind = (): JSX.Element => (
   </svg>
 )
 
+
 export default Wind
