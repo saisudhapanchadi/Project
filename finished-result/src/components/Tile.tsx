@@ -36,3 +36,4 @@ const Tile = ({ icon, title, info, description }: Props): JSX.Element => {
   )
 }
 export default Tile
+
