@@ -10,6 +10,7 @@ Once you have the correct node version, run `npm i` to get all the required depe
 
 After everything is installed, run `npm run start` and navigate to http://localhost:3000
 
+
 ## API Calls
 
 Please Note: The OpenWeather API is using an API Key. In the repository you fill find a `.env.example` file which you need to copy/save as `.env` and paste the value of your API key (which you can get when you register on the OpenWeather API website).
