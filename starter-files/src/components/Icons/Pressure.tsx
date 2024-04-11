@@ -1,4 +1,5 @@
 const Pressure = (): JSX.Element => (
+  
   <svg
     width="15"
     height="15"
