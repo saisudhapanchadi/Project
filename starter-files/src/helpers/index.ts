@@ -46,3 +46,4 @@ export const getPop = (value: number): string => {
 
   return 'High probability'
 }
+
