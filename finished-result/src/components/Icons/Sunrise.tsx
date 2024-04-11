@@ -16,4 +16,5 @@ const Sunrise = (): JSX.Element => (
   </svg>
 )
 
+
 export default Sunrise
