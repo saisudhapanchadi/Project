@@ -9,7 +9,7 @@ const useForecast = () => {
   const [term, setTerm] = useState<string>('')
   const [options, setOptions] = useState<[]>([])
   const [forecast, setForecast] = useState<forecastType | null>(null)
-
+  
   const getSearchOptions = async (term: string) => {
     fetch(
       `${BASE_URL}/geo/1.0/direct?q=${term.trim()}&limit=5&lang=en&appid=${
